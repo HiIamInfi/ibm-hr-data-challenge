@@ -2,11 +2,21 @@
   "Education": {
     "label": "Education",
     "values": {
-      "1": "Below College",
-      "2": "College",
-      "3": "Bachelor",
-      "4": "Master",
-      "5": "Doctor"
+      "1": "1 - Below College",
+      "2": "2 - College",
+      "3": "3 - Bachelor",
+      "4": "4 - Master",
+      "5": "5 - Doctor"
+    }
+  },
+  "JobLevel": {
+    "label": "Job Level",
+    "values": {
+      "1": "1 - Entry Level",
+      "2": "2 - Junior",
+      "3": "3 - Intermediate",
+      "4": "4 - Experienced",
+      "5": "5 - Senior"
     }
   },
   "EnvironmentSatisfaction": {
